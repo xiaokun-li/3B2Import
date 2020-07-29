@@ -1,1 +1,1 @@
-# Just for replacement old java component.
+# Just for replacing an old java component.
